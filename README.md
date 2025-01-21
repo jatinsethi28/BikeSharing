@@ -1,2 +1,2 @@
 # bikesharing
-Built a multiple linear regression model to predict Boom Bikes' daily demand, optimizing features and achieving an R-squared of 0.793. Conducted EDA to uncover key factors like weather and seasonality, delivering insights to enhance post-pandemic operations and marketing strategies.![image](https://github.com/user-attachments/assets/c6d2341a-41c0-4b36-a871-15d65124404c)
+Built a multiple linear regression model to predict Boom Bikes' daily demand, optimizing features and achieving an R-squared of 0.793. Conducted EDA to uncover key factors like weather and seasonality, delivering insights to enhance post-pandemic operations and marketing strategies.
